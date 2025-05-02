@@ -9,7 +9,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/suhai1337/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/suhai1337/azure-network-protocols)
 - <b>Web development</b>
-  - [Developing a static webpage holding placeholder information]([https://github.com/suhai1337/configure-ad](https://github.com/suhai1337/ChromeDome)
+  - [Developing a static webpage holding placeholder information](https://github.com/suhai1337/ChromeDome)
 
 <h2>🤳Connect with me:</h2>
 
